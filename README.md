@@ -2,4 +2,4 @@
 Interfacing arduino iot and matlab
 
 You can find the changing value of POT on the thingspeak public channel.
-https://thingspeak.com/channels/750223/api_keys
+https://thingspeak.com/channels/750223/api_keys 
